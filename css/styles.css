@@ -1,0 +1,27 @@
+h1 {
+  color: rgb(181, 131, 38);
+  text-align: center;
+}
+body {
+  background-color: hsl(34, 100%, 97%);
+}
+a {
+  display: inline-block;
+  margin: 0 10px;
+  padding: 40px 15px 45px;
+  color: hsl(161, 31%, 33%);
+}
+p {
+  text-align: center;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 18px;
+  line-height: 1.5;
+  padding: 45px 15px 45px;
+}
+.link-container {
+  text-align: center;
+}
+.right-position {
+  text-align: right;
+  padding: 5px 15px 5px;
+}
